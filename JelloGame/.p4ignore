@@ -1,0 +1,13 @@
+#directories
+Library
+Temp
+obj
+Deploy
+
+#sln files
+*.csproj
+*.sln
+*.csproj.user
+
+#??
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json

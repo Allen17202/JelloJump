@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Jello
+  - Monster
+  - CinemachineTopDown
+  - JelloRed
+  - JelloGreen
+  - Sphere
+  - WinScreen
+  - Phase1
+  - WayPoint
+  - LoseMenu
+  - ArenaSpawn1
+  - ArenaSpawn2
+  - ArenaSpawn3
+  - ArenaSpawn4
+  - ArenaSpawn5
+  - ArenaSpawn6
+  - Star
+  - TriggerReset
+  - ArenaManager
+  - WinMenu
+  - BoostGreen
+  - BoostGrey
+  - MonsterCamera
+  - MonsterVoice
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Character
+  - Ground
+  - PlayerFollow
+  - MonsterFollow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
